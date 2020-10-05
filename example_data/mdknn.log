@@ -1,0 +1,289 @@
+root           INFO    @ 10/05/20 21:00:57: 
+# ARGUMENT LIST:
+# output file name = output.txt
+# Comparision mode: True
+# Hi-C path 1 = ../../experiment/data/cool/THPP.cool
+# Hi-C path 2 = ../../experiment/data/cool/Ra.cool
+# TAD source file = tads.txt
+# Peak window width = 4
+# Donut width = 7
+# Noise filtering ratio = 0.30000000000000004
+# Significant interaction ratio = 0.05
+# Maximum gap ratio = 0.2
+root           INFO    @ 10/05/20 21:00:57: Read Hi-C data ...
+root           INFO    @ 10/05/20 21:01:45: 
+# ARGUMENT LIST:
+# output file name = output.txt
+# Comparision mode: True
+# Hi-C path 1 = ../../experiment/data/cool/THPP.cool::/resolutions/5000
+# Hi-C path 2 = ../../experiment/data/cool/Ra.cool::/resolutions/5000
+# TAD source file = tads.txt
+# Peak window width = 4
+# Donut width = 7
+# Noise filtering ratio = 0.30000000000000004
+# Significant interaction ratio = 0.05
+# Maximum gap ratio = 0.2
+root           INFO    @ 10/05/20 21:01:45: Read Hi-C data ...
+root           INFO    @ 10/05/20 21:01:45: Read external TAD data ...
+root           INFO    @ 10/05/20 21:01:55: 
+# ARGUMENT LIST:
+# output file name = output.txt
+# Comparision mode: True
+# Hi-C path 1 = ../../experiment/data/cool/THPP.cool::/resolutions/5000
+# Hi-C path 2 = ../../experiment/data/cool/Ra.cool::/resolutions/5000
+# TAD source file = ./bd_unchange_tad_THPP2Ra.txt
+# Peak window width = 4
+# Donut width = 7
+# Noise filtering ratio = 0.30000000000000004
+# Significant interaction ratio = 0.05
+# Maximum gap ratio = 0.2
+root           INFO    @ 10/05/20 21:01:55: Read Hi-C data ...
+root           INFO    @ 10/05/20 21:01:55: Read external TAD data ...
+root           INFO    @ 10/05/20 21:01:55: Calculate feature for each TAD ...
+root           INFO    @ 10/05/20 21:04:51: 
+# ARGUMENT LIST:
+# output file name = output.txt
+# Comparision mode: True
+# Hi-C path 1 = ../../experiment/data/cool/THPP.cool::/resolutions/5000
+# Hi-C path 2 = ../../experiment/data/cool/Ra.cool::/resolutions/5000
+# TAD source file = ./tad.txt
+# Peak window width = 4
+# Donut width = 7
+# Noise filtering ratio = 0.30000000000000004
+# Significant interaction ratio = 0.05
+# Maximum gap ratio = 0.2
+root           INFO    @ 10/05/20 21:04:51: Read Hi-C data ...
+root           INFO    @ 10/05/20 21:04:51: Read external TAD data ...
+root           INFO    @ 10/05/20 21:04:51: Calculate feature for each TAD ...
+root           INFO    @ 10/05/20 21:05:17: 
+# ARGUMENT LIST:
+# output file name = output.txt
+# Comparision mode: True
+# Hi-C path 1 = ../../experiment/data/cool/THPP.cool::/resolutions/5000
+# Hi-C path 2 = ../../experiment/data/cool/Ra.cool::/resolutions/5000
+# TAD source file = ./bd_unchange_tad_THPP2Ra.txt
+# Peak window width = 4
+# Donut width = 7
+# Noise filtering ratio = 0.30000000000000004
+# Significant interaction ratio = 0.05
+# Maximum gap ratio = 0.2
+root           INFO    @ 10/05/20 21:05:17: Read Hi-C data ...
+root           INFO    @ 10/05/20 21:05:17: Read external TAD data ...
+root           INFO    @ 10/05/20 21:05:17: Calculate feature for each TAD ...
+root           INFO    @ 10/05/20 21:06:15: 
+# ARGUMENT LIST:
+# output file name = output.txt
+# Comparision mode: True
+# Hi-C path 1 = ../../experiment/data/cool/THPP.cool::/resolutions/5000
+# Hi-C path 2 = ../../experiment/data/cool/Ra.cool::/resolutions/5000
+# TAD source file = ./bd_unchange_tad_THPP2Ra.txt
+# Peak window width = 4
+# Donut width = 7
+# Noise filtering ratio = 0.30000000000000004
+# Significant interaction ratio = 0.05
+# Maximum gap ratio = 0.2
+root           INFO    @ 10/05/20 21:06:15: Read Hi-C data ...
+root           INFO    @ 10/05/20 21:06:15: Read external TAD data ...
+root           INFO    @ 10/05/20 21:06:15: Calculate feature for each TAD ...
+parso.cache    DEBUG   @ 10/05/20 21:06:33: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/cooler/api.py
+parso.cache    DEBUG   @ 10/05/20 21:06:33: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/2and3/builtins.pyi
+parso.cache    DEBUG   @ 10/05/20 21:06:33: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/series.py
+parso.cache    DEBUG   @ 10/05/20 21:06:33: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/__init__.py
+parso.python.diff DEBUG   @ 10/05/20 21:06:35: diff parser start
+parso.python.diff DEBUG   @ 10/05/20 21:06:35: line_lengths old: 1; new: 1
+parso.python.diff DEBUG   @ 10/05/20 21:06:35: -> code[replace] old[1:1] new[1:1]
+parso.python.diff DEBUG   @ 10/05/20 21:06:35: parse_part from 1 to 1 (to 0 in part parser)
+parso.python.diff DEBUG   @ 10/05/20 21:06:35: diff parser end
+parso.python.diff DEBUG   @ 10/05/20 21:06:52: diff parser start
+parso.python.diff DEBUG   @ 10/05/20 21:06:52: line_lengths old: 1; new: 1
+parso.python.diff DEBUG   @ 10/05/20 21:06:52: -> code[replace] old[1:1] new[1:1]
+parso.python.diff DEBUG   @ 10/05/20 21:06:52: parse_part from 1 to 1 (to 0 in part parser)
+parso.python.diff DEBUG   @ 10/05/20 21:06:52: diff parser end
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/cooler/core.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/types.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/3/types.pyi
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/typing.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/3/typing.pyi
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/3/sys.pyi
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/indexes/base.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/base.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/accessor.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/dtypes/concat.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/util/_decorators.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/dtypes/common.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/dtypes/dtypes.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/dtypes/base.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/dtypes/inference.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/dtypes/generic.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/indexes/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/compat/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/compat/numpy/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/api.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/sparse/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/sparse/api.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/tseries/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/tseries/api.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/computation/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/computation/api.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/reshape/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/reshape/api.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/io/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/io/api.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/index.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/indexes/api.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/indexes/datetimes.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/indexes/datetimelike.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/arrays/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/arrays/base.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/indexes/numeric.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/util/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/_libs/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/util/_validators.py
+parso.cache    DEBUG   @ 10/05/20 21:06:52: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/numeric.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/umath.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/numerictypes.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/fromnumeric.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/arrayprint.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/records.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/memmap.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/function_base.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/machar.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/getlimits.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/shape_base.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/core/einsumfunc.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/type_check.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/index_tricks.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/function_base.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/mixins.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/nanfunctions.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/shape_base.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/stride_tricks.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/twodim_base.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/ufunclike.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/histograms.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/polynomial.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/utils.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/arraysetops.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/npyio.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/financial.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/arraypad.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/lib/_version.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/matrixlib/__init__.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/numpy/matrixlib/defmatrix.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/frame.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/generic.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/internals/managers.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/abc.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/jedi/third_party/typeshed/stdlib/3/abc.pyi
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/indexes/range.py
+parso.cache    DEBUG   @ 10/05/20 21:06:53: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/indexes/multi.py
+parso.cache    DEBUG   @ 10/05/20 21:06:54: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/internals/blocks.py
+parso.cache    DEBUG   @ 10/05/20 21:06:54: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/common.py
+parso.cache    DEBUG   @ 10/05/20 21:06:54: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/indexes/timedeltas.py
+parso.cache    DEBUG   @ 10/05/20 21:06:54: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/arrays/datetimelike.py
+parso.cache    DEBUG   @ 10/05/20 21:06:54: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/indexes/period.py
+parso.cache    DEBUG   @ 10/05/20 21:06:54: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/indexes/frozen.py
+parso.cache    DEBUG   @ 10/05/20 21:06:54: pickle loaded: /home/nanguage/S/miniconda3/envs/misc/lib/python3.7/site-packages/pandas/core/indexing.py
+parso.python.diff DEBUG   @ 10/05/20 21:07:07: diff parser start
+parso.python.diff DEBUG   @ 10/05/20 21:07:07: line_lengths old: 1; new: 1
+parso.python.diff DEBUG   @ 10/05/20 21:07:07: -> code[replace] old[1:1] new[1:1]
+parso.python.diff DEBUG   @ 10/05/20 21:07:07: parse_part from 1 to 1 (to 0 in part parser)
+parso.python.diff DEBUG   @ 10/05/20 21:07:07: diff parser end
+parso.python.diff DEBUG   @ 10/05/20 21:07:11: diff parser start
+parso.python.diff DEBUG   @ 10/05/20 21:07:11: line_lengths old: 1; new: 1
+parso.python.diff DEBUG   @ 10/05/20 21:07:11: -> code[replace] old[1:1] new[1:1]
+parso.python.diff DEBUG   @ 10/05/20 21:07:11: parse_part from 1 to 1 (to 0 in part parser)
+parso.python.diff DEBUG   @ 10/05/20 21:07:11: diff parser end
+root           INFO    @ 10/05/20 21:11:00: 
+# ARGUMENT LIST:
+# output file name = output.txt
+# Comparision mode: True
+# Hi-C path 1 = ../../experiment/data/cool/THPP.cool::/resolutions/5000
+# Hi-C path 2 = ../../experiment/data/cool/Ra.cool::/resolutions/5000
+# TAD source file = ./bd_unchange_tad_THPP2Ra.txt
+# Peak window width = 4
+# Donut width = 7
+# Noise filtering ratio = 0.30000000000000004
+# Significant interaction ratio = 0.05
+# Maximum gap ratio = 0.2
+root           INFO    @ 10/05/20 21:11:00: Read Hi-C data ...
+root           INFO    @ 10/05/20 21:11:00: Read external TAD data ...
+root           INFO    @ 10/05/20 21:11:00: Calculate feature for each TAD ...
+root           INFO    @ 10/05/20 21:16:02: Perform multiple test correction with fdr_bh method.
+root           INFO    @ 10/05/20 21:16:02: Done!
+root           INFO    @ 10/05/20 21:16:02: Write results to output.txt ...
+root           INFO    @ 10/05/20 21:16:02: Done!
+
+root           INFO    @ 10/05/20 21:32:27: 
+# ARGUMENT LIST:
+# output file name = output2.txt
+# Hi-C path = ../../experiment/data/cool/THPP.cool::/resolutions/5000
+# TAD source file = ./bd_unchange_tad_THPP2Ra.txt
+# Peak window width = 4
+# Donut width = 7
+# Noise filtering ratio = 0.30000000000000004
+# Significant interaction ratio = 0.05
+# Maximum gap ratio = 0.2
+root           INFO    @ 10/05/20 21:32:27: Read Hi-C data ...
+root           INFO    @ 10/05/20 21:32:27: Read external TAD data ...
+root           INFO    @ 10/05/20 21:32:27: Calculate feature for each TAD ...
+root           INFO    @ 10/05/20 21:33:02: 
+# ARGUMENT LIST:
+# output file name = output2.txt
+# Hi-C path = ../../experiment/data/cool/THPP.cool::/resolutions/5000
+# TAD source file = ./bd_unchange_tad_THPP2Ra.txt
+# Peak window width = 4
+# Donut width = 7
+# Noise filtering ratio = 0.30000000000000004
+# Significant interaction ratio = 0.05
+# Maximum gap ratio = 0.2
+root           INFO    @ 10/05/20 21:33:02: Read Hi-C data ...
+root           INFO    @ 10/05/20 21:33:02: Read external TAD data ...
+root           INFO    @ 10/05/20 21:33:02: Calculate feature for each TAD ...
+root           INFO    @ 10/05/20 21:33:18: 
+# ARGUMENT LIST:
+# output file name = output2.txt
+# Hi-C path = ../../experiment/data/cool/THPP.cool::/resolutions/5000
+# TAD source file = ./bd_unchange_tad_THPP2Ra.txt
+# Peak window width = 4
+# Donut width = 7
+# Noise filtering ratio = 0.30000000000000004
+# Significant interaction ratio = 0.05
+# Maximum gap ratio = 0.2
+root           INFO    @ 10/05/20 21:33:18: Read Hi-C data ...
+root           INFO    @ 10/05/20 21:33:18: Read external TAD data ...
+root           INFO    @ 10/05/20 21:33:18: Calculate feature for each TAD ...
+root           INFO    @ 10/05/20 21:33:33: 
+# ARGUMENT LIST:
+# output file name = output2.txt
+# Hi-C path = ../../experiment/data/cool/THPP.cool::/resolutions/5000
+# TAD source file = ./bd_unchange_tad_THPP2Ra.txt
+# Peak window width = 4
+# Donut width = 7
+# Noise filtering ratio = 0.30000000000000004
+# Significant interaction ratio = 0.05
+# Maximum gap ratio = 0.2
+root           INFO    @ 10/05/20 21:33:33: Read Hi-C data ...
+root           INFO    @ 10/05/20 21:33:33: Read external TAD data ...
+root           INFO    @ 10/05/20 21:33:33: Calculate feature for each TAD ...
+root           INFO    @ 10/05/20 21:34:35: 
+# ARGUMENT LIST:
+# output file name = output2.txt
+# Hi-C path = ../../experiment/data/cool/THPP.cool::/resolutions/5000
+# TAD source file = ./bd_unchange_tad_THPP2Ra.txt
+# Peak window width = 4
+# Donut width = 7
+# Noise filtering ratio = 0.30000000000000004
+# Significant interaction ratio = 0.05
+# Maximum gap ratio = 0.2
+root           INFO    @ 10/05/20 21:34:35: Read Hi-C data ...
+root           INFO    @ 10/05/20 21:34:35: Read external TAD data ...
+root           INFO    @ 10/05/20 21:34:35: Calculate feature for each TAD ...
+root           INFO    @ 10/05/20 21:37:09: Done!
+root           INFO    @ 10/05/20 21:37:09: Write results to output2.txt ...
+root           INFO    @ 10/05/20 21:37:09: Done!
+
